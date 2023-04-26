@@ -17,7 +17,7 @@ Installation
 
 bash
 
-git clone https://github.com/yourusername/aws-access-key-rotator.git
+git clone https://github.com/HackGroot/aws_access_key_rotator.py.git
 
     Install the required Python packages:
 
